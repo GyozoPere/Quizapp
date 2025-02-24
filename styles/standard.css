@@ -16,9 +16,3 @@ a:hover {
 .d_none {
     display: none;
 }
-
-body {
-    height: calc(100% + 60px);
-    display: flex;
-    flex-direction: column;
-}
